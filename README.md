@@ -1,6 +1,5 @@
 # DrumKit - udemy project
 
 
-Learned about evenlistener and more about DOM 
-learned to add sound to buttons 
+Learned about evenlistener ,more about DOM  and to add sound to buttons 
 
